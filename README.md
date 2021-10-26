@@ -8,8 +8,6 @@ Full-stack developer with 5+ years of experience developing web applications usi
 
 Find out about my blog-post [JavToscano.com](https://javtoscano.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JavToscano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Support
 If you like my work, you can support me on [Github Sponsors](https://github.com/sponsors/javtoscano)
 
