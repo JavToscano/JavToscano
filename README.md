@@ -13,9 +13,3 @@ Find out about my blog-post [JavToscano.com](https://javtoscano.com)
 If you like my work, you can support me on [Github Sponsors](https://github.com/sponsors/javtoscano)
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/javtoscano?style=for-the-badge)
-
-## My Latest Blog Posts 👇
-
-<!-- HASHNODE_BLOG:START -->
-- [Create PDF documents with AWS Lambda + S3 with NodeJS and Puppeteer](https://javtoscano.hashnode.dev/create-pdf-documents-with-aws-lambda-s3-with-nodejs-and-puppeteer-cksct692q0330u5s12jbi66z0)
-<!-- HASHNODE_BLOG:END -->
